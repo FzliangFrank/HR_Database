@@ -1,2 +1,2 @@
 # HR_Database
-This HR planning system designed for SME to automise their HR recuitment proccess
+One of my student project for Msc Business Analytic (2022)
